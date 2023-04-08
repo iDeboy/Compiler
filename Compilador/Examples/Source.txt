@@ -1,0 +1,28 @@
+﻿include CSharp.Collections.Generic;
+include CSharp;
+include CSharp.Linq;
+include CSharp.Text;
+include CSharp.Threading.Tasks;	
+
+namespace Example;
+
+define macroName {
+		
+}
+
+define macroFuncName(x, y, ...) {
+	
+}
+
+public class Source {
+	
+	public static void main(string[] args){
+	
+		write('\n');
+		int a = -3 + 1;
+		write("Hola, mundo! \n =");
+
+
+	}
+
+}
